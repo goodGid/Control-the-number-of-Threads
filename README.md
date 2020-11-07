@@ -1,12 +1,7 @@
-# AbstractFutureProcess
-
----
 
 ## Summary
 
 * Controls the thread count in a multi-threaded environment.
-
----
 
 ## Dependency
 
